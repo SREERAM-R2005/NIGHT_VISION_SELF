@@ -1,2 +1,2 @@
 # NIGHT_VISION_SELF
-Hi there, I'm Sreeram, An Electrical Engineering Undergraduate at IIT Madra.
+Hi there, I'm Sreeram, An Electrical Engineering Undergraduate at IIT Madras.
