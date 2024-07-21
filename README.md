@@ -1,2 +1,2 @@
 # NIGHT_VISION_SELF
-My AI club Cordinator and project Nightvision application, IIT MADRAS
+Hi there, I'm Sreeram, An Electrical Engineering Undergraduate at IIT Madra.
