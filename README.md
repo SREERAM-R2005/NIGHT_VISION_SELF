@@ -1,2 +1,2 @@
 # NIGHT_VISION_SELF
-Hi there, I'm Sreeram, An Electrical Engineering Undergraduate student at IIT Madras.
+Project NightVision aims to enhance low light videos using Computer vision and various Deep Learning techniques which has several applications in fields like autonomous driving, SUrveilllance, Medical Imaging etc.
