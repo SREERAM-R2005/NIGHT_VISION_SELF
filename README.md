@@ -1,2 +1,2 @@
-# NIGHT_VISION_SELF
+# NIGHT_VISION
 Project NightVision aims to enhance low light videos using Computer vision and various Deep Learning techniques which has several applications in fields like autonomous driving, Surveilllance, Medical Imaging etc.
